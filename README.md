@@ -4,6 +4,11 @@
 - 🌱 Currently, my focus is on mastering JavaScript.
 - 💞️ I'm actively seeking opportunities to contribute to exciting open source blockchain projects.
 - 📫 How to reach me [bayryambashchoban@gmail.com]
+- <div id="badges">
+  <a href="https://www.linkedin.com/in/bayryamb/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
