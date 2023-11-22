@@ -3,8 +3,7 @@
      particular interest in Web3 and blockchain technologies. 
 - 🌱 Currently, my focus is on mastering JavaScript.
 - 💞️ I'm actively seeking opportunities to contribute to exciting open source blockchain projects.
-- 📫 How to reach me [bayryambashchoban@gmail.com]
-- <div id="badges">
+- 📫 How to reach me [bayryambashchoban@gmail.com]<div id="badges">
   <a href="https://www.linkedin.com/in/bayryamb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
