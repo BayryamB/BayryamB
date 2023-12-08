@@ -23,7 +23,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-## 🛠️ 🧰 My Stats :
+## 🛠️ 🧰 Tools and languages :
 ## 🚀 ⚜️ My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BayryamB&theme=github-dark-blue&border_radius=5.5&mode=weekly)](https://git.io/streak-stats)
 <!---
