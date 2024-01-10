@@ -26,7 +26,7 @@
 </div>
 
 ## 🚀 ⚜️ My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BayryamB&theme=github-dark-blue&border_radius=5.5&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=BayryamB)](https://git.io/streak-stats)
 <!---
 BayryamB/BayryamB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
