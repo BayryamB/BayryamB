@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bayryam 
 - 👀 I am an aspiring JavaScript developer with a
      particular interest in Web3 and blockchain technologies. 
-- 🌱 Currently, my focus is on mastering JavaScript and HTML & CSS.
+- 🌱 Currently, my focus is on mastering Angular and NodeJS.
 - 💞️ I'm actively seeking opportunities to contribute to exciting open source blockchain projects.
 - 📫 How to reach me [bayryambashchoban@gmail.com]<div id="badges">
   <a href="https://www.linkedin.com/in/bayryamb/">
