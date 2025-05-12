@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bayryam 
-- 👀 I am an aspiring JavaScript developer with a
+- 👀 I am an aspiring JavaScript/Typescript developer with a
      particular interest in Web3 and blockchain technologies. 
 - 🌱 Currently, my focus is on mastering Angular and NodeJS.
 - 💞️ I'm actively seeking opportunities to contribute to exciting open source blockchain projects.
@@ -12,11 +12,12 @@
 ## 🛠️ 🧰 Tools and languages :
 
 <div>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="React" alt="linux" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="React" alt="bash" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="angular" alt="React" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
