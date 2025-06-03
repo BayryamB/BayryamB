@@ -31,7 +31,8 @@
 </div>
 
 ## 🚀 ⚜️ My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=BayryamB&theme=blueberry" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=BayryamB&theme=aura&hide_border=true&mode=weekly&card_height=200)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BayryamB&theme=aura)
 <!---
 BayryamB/BayryamB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
